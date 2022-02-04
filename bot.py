@@ -6,11 +6,11 @@ from discord.ext import commands
 
 from colorama import Fore, Style
 
-token = "your token here"
+token = "OTM0Nzc3MDA1ODc3MTE2OTU5.YfsH1A.i23M6SQ6qCG35jVUxgHJshzA3zE"
 
 #Bot prefix, like ?help
 
-prefix = "?"
+prefix = "."
 
 def endSong(guild, path):
 
